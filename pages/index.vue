@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen bg-gray-100 py-8 flex flex-col items-center justify-start pt-16">
     <div class="bg-white shadow-md rounded-lg p-8 w-full max-w-md">
-      <h2 class="text-2xl font-bold mb-6 text-center text-blue-500">cek cuaca di seluruh dunia</h2>
+      <h2 class="text-2xl font-bold mb-6 text-center text-blue-500">Ayo cek cuaca dunia!</h2>
       <div class="mb-6 flex">
         <input
           v-model="searchQuery"
